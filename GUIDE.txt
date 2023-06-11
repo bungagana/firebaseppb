@@ -1,0 +1,2 @@
+Program ini menggunakan firebase dengan link : https://console.firebase.google.com/u/0/project/firstfire-cfad0/database/firstfire-cfad0-default-rtdb/data
+Jangan lupa untuk mengimport Google Service Json ke Android Studio Project
